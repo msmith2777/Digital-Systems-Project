@@ -34,5 +34,5 @@ Rating my favorite colleges based on sports.
 Colleges | Ratings
 --------|---------
 *Missouri* | 8
-_Oregon_ | 9
+__Oregon__ | 9
 **Ohio State** | 7
