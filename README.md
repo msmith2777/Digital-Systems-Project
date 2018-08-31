@@ -1,2 +1,2 @@
 # Digital-Systems-Project
-[Challenge 2](DigitalSystemsmarkdown.md)
+[Digital Systems markdown.md](DigitalSystemsmarkdown.md)
