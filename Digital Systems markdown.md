@@ -36,3 +36,5 @@ Colleges | Ratings
 *Missouri* | 8
 __Oregon__ | 9
 **Ohio State** | 7
+
+~~I Love KU~~
