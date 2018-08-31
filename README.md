@@ -1,2 +1,2 @@
 # Digital-Systems-Project
-[This link to mny read.md](Readme.md)
+[This link to my read.md](Readme.md)
