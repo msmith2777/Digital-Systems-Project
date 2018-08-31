@@ -38,3 +38,5 @@ __Oregon__ | 9
 **Ohio State** | 7
 
 ~~I Love KU~~
+
+---
